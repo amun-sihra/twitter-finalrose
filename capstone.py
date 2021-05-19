@@ -8,10 +8,10 @@ import plotly.express as px
 
 # Twitter Authentication
 twitterAuth = {
-   'consumerKey': 'xvpvgBy6h4edEucvPQfgtd6Er',
-   'consumerSecret': 'moKnYoEujAFWlsBRncleEHZfIK4HuXYx0g4kHL6n6ECrflXZEE',
-   'accessToken':  "392305046-0qFKFsQBXccR11640xMH2f549lng36hoiwk2cSn7",
-   'accessTokenSecret': "sbLXS8nSIvc0MmYI6SM5BdYGzuSRTr1ttkdxAEtCBGFfV"
+   'consumerKey': 'xxxx',
+   'consumerSecret': 'xxxx',
+   'accessToken':  "xxxx",
+   'accessTokenSecret': "xxxx"
 }
 auth = tweepy.OAuthHandler(twitterAuth['consumerKey'], twitterAuth['consumerSecret'])
 auth.set_access_token(twitterAuth['accessToken'], twitterAuth['accessTokenSecret'])
