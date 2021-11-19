@@ -5,8 +5,5 @@ The Bachelor is a reality television show that starts off with one individual an
 Contestant names are scraped from Wikipedia Pandas, and fed into Twitters tweepy API. Tweets are analyzed using SentimentIntensityAnalyzer.  Pie charts are developed using matplot.
 
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
